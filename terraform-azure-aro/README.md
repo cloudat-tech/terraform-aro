@@ -61,8 +61,7 @@ terraform plan
 
 # Create the resources:
 terraform apply -auto-approve
-```
 
-## LICENSE
 
-* MIT, [Lucian Maly](https://github.com/luckylittle) for [Red Hat, Inc.](https://redhat.com)
+
+https://github.com/luckylittle
